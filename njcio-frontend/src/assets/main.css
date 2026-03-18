@@ -1,0 +1,29 @@
+* {
+	font-family: 'JetBrains Mono', monospace !important;
+}
+
+html {
+	font-size: 115%;
+}
+
+.backlog-scroll {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0, 0, 0, 0.2) transparent;
+}
+
+.backlog-scroll::-webkit-scrollbar {
+    width: 4px;
+}
+
+.backlog-scroll::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.backlog-scroll::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.backlog-scroll::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.4);
+}

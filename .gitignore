@@ -1,0 +1,13 @@
+# Vue
+njcio-frontend/node_modules/
+njcio-frontend/dist/
+
+# .NET
+njcio-api/bin/
+njcio-api/obj/
+
+# Database
+njcio-api/njcio.db
+
+# OS
+.DS_Store
