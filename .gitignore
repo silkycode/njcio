@@ -9,6 +9,8 @@ njcio-api/obj/
 # Database
 njcio-api/njcio.db
 
+.vscode
+
 # OS
 .DS_Store
 njcio.sln
